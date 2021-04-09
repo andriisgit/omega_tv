@@ -75,7 +75,7 @@ WHERE `a`.`is_active` = 1 AND `a`.`date_end` >= NOW()
 ORDER BY `cu`.`name`, `t`.`name`
 ```
 ### консольный php-скрипт:
-`index.php`
+`index.php`, установки подключения к БД в `Connect.php`
 
 ### пример выгруженных отчетов №1 и №3 в каталоге `reports`
 

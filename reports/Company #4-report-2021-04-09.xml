@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report>
+  <row>
+    <Name>Компания</Name>
+    <Value>Company #4</Value>
+    <Name>Кол-во всех клиентов</Name>
+    <Value>3</Value>
+    <Name>дата формирования отчета</Name>
+    <Value>2021-04-09 02:36:06</Value>
+  </row>
+</Report>
